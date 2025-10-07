@@ -1,0 +1,15 @@
+# Single Page Application routing
+/*    /index.html   200
+
+# Privacy and Terms redirects
+/privacy    /#privacy   301
+/terms      /#terms     301
+
+# API routes for future implementation
+/api/*      /.netlify/functions/:splat  200
+
+# Legacy redirects (if needed)
+# /old-page    /new-page   301
+
+# Force HTTPS
+https://marcorossicoach.com/*    https://www.marcorossicoach.com/:splat   301

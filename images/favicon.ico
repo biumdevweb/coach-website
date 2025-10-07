@@ -1,0 +1,6 @@
+<!-- This is a placeholder for the favicon -->
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" fill="#1E3A8A"/>
+  <circle cx="16" cy="12" r="6" fill="#F59E0B"/>
+  <ellipse cx="16" cy="24" rx="10" ry="6" fill="#F9FAFB"/>
+</svg>
